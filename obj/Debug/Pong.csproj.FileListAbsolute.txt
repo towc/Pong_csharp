@@ -1,0 +1,9 @@
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\bin\Debug\Pong.exe.config
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\obj\Debug\Pong.csprojResolveAssemblyReference.cache
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\obj\Debug\Pong.PongForm.resources
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\obj\Debug\Pong.Properties.Resources.resources
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\obj\Debug\Pong.csproj.GenerateResource.Cache
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\bin\Debug\Pong.exe
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\bin\Debug\Pong.pdb
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\obj\Debug\Pong.exe
+c:\users\matei\documents\visual studio 2013\Projects\Pong\Pong\obj\Debug\Pong.pdb
